@@ -1,1 +1,1 @@
-#Titanic - Machine learning from disaster
+# Machine Learning Project
